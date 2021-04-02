@@ -9,7 +9,6 @@
 ## OS
 
 mac OS Big Sure 11.2.3
-
 <img src=https://github.com/tiny0little/Gigabyte-Z490-UD-OC/blob/main/images/001.png>
 
 ## Credits
