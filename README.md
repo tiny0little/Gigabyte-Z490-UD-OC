@@ -12,9 +12,9 @@ macOS Big Sur 11.2.3<br>
 <img src=https://github.com/tiny0little/Gigabyte-Z490-UD-OC/blob/main/images/001.png>
 
 
-## PlatforInfo (Serial Number and UUID)
+## PlatforInfo (MLB, Serial Number and UUID)
 
-please generate your own 
+in order for iServices to work properly, please generate your own 
 
  
 ## What Works
