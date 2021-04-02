@@ -1,9 +1,5 @@
 # OpenCore on Gigabyte Z490 UD + i7 10700K + iGPU
 
-## ***
-
-I'm not anywhere near and expert in OC, I use this cong for my personal needs. 
-
 
 ## OpenCore version
 
@@ -12,8 +8,12 @@ I'm not anywhere near and expert in OC, I use this cong for my personal needs.
 
 ## OS
 
-dualboot
-- mac OS Big Sure 11.2.3
-- Windows 10
+mac OS Big Sure 11.2.3
+
+<img src=https://github.com/tiny0little/Gigabyte-Z490-UD-OC/blob/main/images/001.png>
+
+## Credits
+
+<a target=_new href=https://github.com/dortania>Dortania</a>
 
 
