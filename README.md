@@ -36,6 +36,6 @@ HDMI Audio - please let me know if you know how to fix it
 
 ## Credits
 
-<a href=https://github.com/dortania>Dortania</a>
-
+<a href=https://github.com/dortania>dortania</a>
+<a href=https://www.tonymacx86.com/>tonymacx86</a>
 
