@@ -8,12 +8,11 @@
 
 ## OS
 
-mac OS Big Sure 11.2.3
-
+mac OS Big Sure 11.2.3<br>
 <img src=https://github.com/tiny0little/Gigabyte-Z490-UD-OC/blob/main/images/001.png>
 
 
-## Serial Number and UUID
+## PlatforInfo (Serial Number and UUID)
 
 please generate your own 
 
@@ -24,8 +23,8 @@ please generate your own
 - USB
 - Audio
 - Ethernet
-- WiFi/Bluetoth with Fenvi FV-A436CD (Chipest:Broadcom BCM94360CD)
-- Airdrop
+- WiFi/Bluetoth with Fenvi FV-A436CD (Chipest: Broadcom BCM94360CD)
+- AirDrop
 - iMessages
 
 
@@ -36,6 +35,6 @@ HDMI Audio - please let me know if you know how to fix it
 
 ## Credits
 
-<a href=https://github.com/dortania>dortania</a>
+<a href=https://github.com/dortania>dortania</a><br>
 <a href=https://www.tonymacx86.com/>tonymacx86</a>
 
