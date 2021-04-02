@@ -8,7 +8,7 @@
 
 ## OS
 
-mac OS Big Sure 11.2.3<br>
+macOS Big Sur 11.2.3<br>
 <img src=https://github.com/tiny0little/Gigabyte-Z490-UD-OC/blob/main/images/001.png>
 
 
