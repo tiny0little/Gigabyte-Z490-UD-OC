@@ -12,8 +12,30 @@ mac OS Big Sure 11.2.3
 
 <img src=https://github.com/tiny0little/Gigabyte-Z490-UD-OC/blob/main/images/001.png>
 
+
+## Serial Number and UUID
+
+please generate your own 
+
+ 
+## What Works
+
+- Sleep
+- USB
+- Audio
+- Ethernet
+- WiFi/Bluetoth with Fenvi FV-A436CD (Chipest:Broadcom BCM94360CD)
+- Airdrop
+- iMessages
+
+
+## What does not Work
+
+HDMI Audio - please let me know if you know how to fix it
+
+
 ## Credits
 
-<a target=_new href=https://github.com/dortania>Dortania</a>
+<a href=https://github.com/dortania>Dortania</a>
 
 
