@@ -12,14 +12,6 @@ macOS Big Sur 11.2.3<br>
 <img src=https://github.com/tiny0little/Gigabyte-Z490-UD-OC/blob/main/images/001.png>
 
 
-## PlatforInfo (MLB, Serial Number and UUID)
-
-please generate them. OpenCore Configurator can help
-
-<code>PlatformInfo -> Automatic -> MLB</code><br>
-<code>PlatformInfo -> Automatic -> SystemSerialNumber</code><br>
-<code>PlatformInfo -> Automatic -> SystemUUID</code><br>
-
 
 ## What Works
 
