@@ -26,11 +26,12 @@ macOS Big Sur 11.2.3<br>
 
 ## What does not Work
 
-HDMI Audio - please let me know if you know how to fix it
+HDMI Audio - please let me know if you can fix it
 
 
 ## Credits
 
 <a href=https://github.com/dortania>dortania</a><br>
 <a href=https://www.tonymacx86.com/>tonymacx86</a>
+<a href=https://github.com/ubune/Gigabyte-Z490UD-Opencore-EFI>ubune</a>
 
