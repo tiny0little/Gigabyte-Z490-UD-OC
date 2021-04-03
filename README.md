@@ -14,9 +14,20 @@ macOS Big Sur 11.2.3<br>
 
 ## PlatforInfo (MLB, Serial Number and UUID)
 
-in order for iServices to work properly, please generate your own 
+please generate them. OpenCore Configurator can help
 
- 
+<key>PlatformInfo</key>
+<dict>
+  <key>Automatic</key>
+  <dict>
+  <key>MLB</key>
+    <string></string>
+    <key>SystemSerialNumber</key>
+    <string></string>
+    <key>SystemUUID</key>
+    <string></string>
+
+
 ## What Works
 
 - Sleep
