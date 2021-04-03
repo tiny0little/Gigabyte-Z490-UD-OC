@@ -16,6 +16,7 @@ macOS Big Sur 11.2.3<br>
 
 please generate them. OpenCore Configurator can help
 
+<code>
 <key>PlatformInfo</key>
 <dict>
   <key>Automatic</key>
@@ -26,6 +27,7 @@ please generate them. OpenCore Configurator can help
     <string></string>
     <key>SystemUUID</key>
     <string></string>
+</code>
 
 
 ## What Works
