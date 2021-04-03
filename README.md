@@ -16,13 +16,9 @@ macOS Big Sur 11.2.3<br>
 
 please generate them. OpenCore Configurator can help
 
-<code>
 PlatformInfo -> Automatic -> MLB
-
 PlatformInfo -> Automatic -> SystemSerialNumber
-
 PlatformInfo -> Automatic -> SystemUUID
-</code>
 
 
 ## What Works
