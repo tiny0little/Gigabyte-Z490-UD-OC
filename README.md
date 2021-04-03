@@ -32,6 +32,6 @@ HDMI Audio - please let me know if you can fix it
 ## Credits
 
 <a href=https://github.com/dortania>dortania</a><br>
-<a href=https://www.tonymacx86.com/>tonymacx86</a>
-<a href=https://github.com/ubune/Gigabyte-Z490UD-Opencore-EFI>ubune</a>
+<a href=https://www.tonymacx86.com/>tonymacx86</a><br>
+<a href=https://github.com/ubune/Gigabyte-Z490UD-Opencore-EFI>ubune</a><br>
 
