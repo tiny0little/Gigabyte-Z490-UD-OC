@@ -17,16 +17,9 @@ macOS Big Sur 11.2.3<br>
 please generate them. OpenCore Configurator can help
 
 <code>
-<key>PlatformInfo</key>
-<dict>
-  <key>Automatic</key>
-  <dict>
-  <key>MLB</key>
-    <string></string>
-    <key>SystemSerialNumber</key>
-    <string></string>
-    <key>SystemUUID</key>
-    <string></string>
+PlatformInfo -> Automatic -> MLB
+PlatformInfo -> Automatic -> SystemSerialNumber
+PlatformInfo -> Automatic -> SystemUUID
 </code>
 
 
