@@ -21,7 +21,7 @@ macOS Big Sur 11.2.3<br>
 - Ethernet
 - WiFi/Bluetoth with Fenvi FV-A436CD (Chipest: Broadcom BCM94360CD)
 - AirDrop
-- iMessages
+- iMessages {dont forget to generate PlatformInfo -> SystemSerialNumber, SystemUUID, MLB}
 
 
 ## What does not Work
