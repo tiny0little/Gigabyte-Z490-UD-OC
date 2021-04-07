@@ -27,6 +27,7 @@ macOS Big Sur 11.2.3<br>
 ## What does not Work
 
 HDMI Audio - please let me know if you can fix it
+Universal Clipboard and possibly Handoff
 
 
 ## Credits
